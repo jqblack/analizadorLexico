@@ -1,0 +1,10 @@
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\bin\Debug\analisadorLexicoProfe.exe.config
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\bin\Debug\analisadorLexicoProfe.exe
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\bin\Debug\analisadorLexicoProfe.pdb
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.csprojAssemblyReference.cache
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.Properties.Resources.resources
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.csproj.GenerateResource.cache
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.csproj.CoreCompileInputs.cache
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.exe
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.pdb
+C:\Users\klok1\source\repos\analisadorLexicoProfe\analisadorLexicoProfe\obj\Debug\analisadorLexicoProfe.Form1.resources
